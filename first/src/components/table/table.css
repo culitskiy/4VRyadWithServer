@@ -1,0 +1,7 @@
+.table{
+    display: flex;
+    max-width: 50vw;
+    max-height: 50vh;
+    background-color: rgb(104, 100, 100);
+    
+}

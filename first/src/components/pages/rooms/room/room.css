@@ -1,0 +1,33 @@
+.room{
+    margin-bottom: 20px;
+    border: 1px solid rgb(70, 129, 236);
+    height: 30px;
+    width: 30vw;
+    background-color: rgb(164, 182, 182);
+    
+}
+.room1{
+    margin-bottom: 20px;
+    border: 1px solid rgb(70, 129, 236);
+    height: 30px;
+    width: 30vw;
+    background-color: rgb(164, 182, 182);
+}
+.room1::before{
+    content: '';
+    position: absolute;
+  
+    height: 30px;
+    width: 15vw;
+    background-color: rgb(243, 114, 131);
+}
+.room2{
+    margin-bottom: 20px;
+    border: 1px solid rgb(70, 129, 236);
+    height: 30px;
+    width: 30vw;
+    background-color: rgb(243, 114, 131);
+}
+.button{
+    float: right;
+}
