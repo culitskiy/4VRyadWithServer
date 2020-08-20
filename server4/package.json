@@ -11,7 +11,7 @@
   "dependencies": {
     "@hapi/cookie": "^10.1.2",
     "@hapi/hapi": "^18.4.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "hapi-cors": "^1.0.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.1",
